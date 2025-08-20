@@ -1,4 +1,5 @@
-Hello I am Jay
+Hello I am Jay!
+I code occasionally...
 <!--
 **JayArindamMaity/JayArindamMaity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
